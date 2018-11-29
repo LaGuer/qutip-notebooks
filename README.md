@@ -29,9 +29,8 @@ If you are using a version of IPython notebook that does not support v4 format.
     
 # Interactive online versions
 
-This is a currently (Feb 2016) running in a beta host service binder,
-which seems to running well.
-[![Binder](http://img.shields.io/badge/launch-binder-ff69b4.svg?style=flat)](http://mybinder.org/repo/qutip/qutip-notebooks)
+
+[![Binder](https://mybinder.org/v2/gh/LaGuer/qutip-notebooks/)
     
 # Online read-only versions
 
