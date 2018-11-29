@@ -30,7 +30,7 @@ If you are using a version of IPython notebook that does not support v4 format.
 # Interactive online versions
 
 
-[![Binder](https://mybinder.org/v2/gh/LaGuer/qutip-notebooks/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LaGuer/qutip-notebooks/master)
     
 # Online read-only versions
 
