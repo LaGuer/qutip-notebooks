@@ -2,8 +2,11 @@ name: qutip-notebooks
 channels:
   - conda-forge
 dependencies:
-  - matplotlib=2.1.0
-  - numpy=1.13.3
-  - scipy=0.19.1
-  - cython=0.26.1
-  - qutip=4.1
+  - python==3.7.3
+  - pip==19.*
+  - cython==0.29.8
+  - numpy==1.16.4
+  - scipy==1.2.1
+  - matplotlib=3.0.3
+  - qutip==4.4.0
+  - imagemagick=7.0.8_49
